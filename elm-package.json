@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "summary": "Convenience functions for working with effects in Elm",
     "repository": "https://github.com/ccapndave/elm-effects-extra.git",
     "license": "BSD3",
@@ -7,8 +7,8 @@
         "src"
     ],
     "exposed-modules": [
-      "Effects.Extra",
-      "Effects.Extra.Infix"
+        "Effects.Extra",
+        "Effects.Extra.Infix"
     ],
     "dependencies": {
         "elm-lang/core": "3.0.0 <= v < 4.0.0",
