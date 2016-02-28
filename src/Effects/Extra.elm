@@ -8,7 +8,7 @@ module Effects.Extra where
 import Effects exposing (Effects)
 
 {-| A function allowing you to compose calls to update.  Most useful when used
-in its infix form to make update pipeline.
+in its infix form to make an update pipeline.
 
     import Effects.Extra.Infix exposing ((:>))
 

@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "summary": "Convenience functions for working with effects in Elm",
     "repository": "https://github.com/ccapndave/elm-effects-extra.git",
     "license": "BSD3",
